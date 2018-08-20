@@ -15,6 +15,10 @@ __Objective:__
 Don't die. And avoid the Austrian memer at all costs.
 
 
+Here's a playthrough of the game (*it isn't supposed to be this laggy, my recorder slows down the PC*): https://youtu.be/rlTeUOd0J6g
+
+
+
 __Copywright__ (yes, not copyright) __(C) SasDaGreat, 2018 BC to 2018 AD__
 
 Infringing this will result in stale German memes being delivered to your house.
