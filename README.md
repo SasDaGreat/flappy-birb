@@ -3,7 +3,7 @@ A Flappy Bird clone written in Python using the pygame module, with the occasion
 
 This is a gift, if you will, for the German Learning Discord server. Thanks for being an awesome community, guys!
 
-All of the sprites (except for the math obstacle image) and sounds were either made by me, or modified from other resources.
+All of the sprites (except for the math obstacle image) and sounds were either made by me, or modified from other resources. The bad music for the title screen as well as Germeme mode was made my me.
 
 The game doesn't need Python or pygame to run. It *does* need a cookie - chocolate, please - sent directly to my doorstep to run though, so... cough up.
 
